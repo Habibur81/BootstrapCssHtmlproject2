@@ -1,0 +1,62 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#lo{
+    padding: 0 !important;
+}
+.container-fluid{
+    padding: 0 !important;
+}
+#dem{
+    padding: 0 !important;
+}
+#logo{
+    font-family: 'Pacifico', cursive;
+    background-color: black !important;
+    opacity: 0.2 !important;
+    color: white !important;
+    margin-bottom: 0 !important;
+    padding: 12px !important;
+}
+.carousel-item img{
+    width: 100% !important;
+}
+.carousel-caption{
+    padding-bottom: 50px !important;
+}
+.carousel-caption h3, p{
+    color: rgb(255, 250, 250) !important;
+}
+.textonimage{
+    width: 100%;
+    top: 25% !important;
+    text-align: center !important;
+    position: absolute;
+    color: wheat !important;
+    font-size: 25px !important;
+}
+#toprow{
+    background-color: rgb(241, 230, 230);
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+#downrow{
+    padding-bottom: 20px !important;
+}
+#map p {
+    margin: 0 !important;
+}
+#map iframe{
+    height: 30% !important;
+    width: 100% !important;
+}
+#endSection{
+    padding-bottom: 20px !important;
+}
+#onlinecontact{
+    color:white !important;
+}
+#orderContact{
+    color: white !important;
+}
